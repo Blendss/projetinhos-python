@@ -1,3 +1,6 @@
+Objetivo: protótipo para salvar informaçoes na forma de um banco de dados que fica salvo em arquivo json e pode ser editado e usado para encontrar informaçoes
+
+versoes:
 V1.0
 variavel filename colocar PACH pra onde salvar o arquivo JSON de data
 V1.1
