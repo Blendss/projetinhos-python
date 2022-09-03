@@ -1,4 +1,4 @@
-Objetivo: protótipo para salvar informaçoes na forma de um banco de dados que fica salvo em arquivo json e pode ser editado e usado para encontrar informaçoes
+Objetivo: fazer uma biblioteca em python para ser utilizada em projeto que possa salvar informaçoes na forma de um banco de dados, fica salvo em arquivo json e pode ser editado e usado para encontrar informaçoes
 
 versoes:
 Exemplo:
