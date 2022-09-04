@@ -21,9 +21,6 @@ while(count == 1):
             count = 1
             print("\n\n")
             break
-        else:
-            count = 0
-            break
         n3 = float(input('digite um valor: '))
         if(sin2 == "+"):
             r2 = (r + n3) + r3
@@ -35,4 +32,5 @@ while(count == 1):
             r2 = (r / n3) + r3
         print(r2)
         r3 = r2
+        r = 0
 print('acabou')
