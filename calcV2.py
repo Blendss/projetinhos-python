@@ -3,14 +3,14 @@ while(count == 1):
     r3 = 0
     r = 0
     n1 = float(input('digite um valor: '))
-    sin = input('digite qual operaçao (+, -, *, /) quer realizar: ')
+    sin = input('(+, -, *, /, %, **, //)\ndigite qual operaçao quer realizar: ')
     n2 = float(input('digite outro valor: '))
     r = eval(f'{n1} {sin} {n2}')
     print(r)
     count = 2
     while(count == 2):
-        sin2 = input('digite "C" para zerar ou qual operaçao (+, -, *, /) quer realizar: ')
-        if(sin2 == "C" or sin == "c"):
+        sin2 = input('digite "C" para zerar ou (+, -, *, /, %, **, //)\ndigite qual operaçao quer realizar: ')
+        if(sin2 == "C" or sin2 == "c"):
             count = 1
             print("\n\n")
             break
