@@ -1,6 +1,5 @@
 count = 1
 while(count == 1):
-    r3 = 0
     r = 0
     n1 = float(input('digite um valor: '))
     sin = input('(+, -, *, /, %, **, //)\ndigite qual operaçao quer realizar: ')
